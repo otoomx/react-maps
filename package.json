@@ -24,6 +24,7 @@
   "dependencies": {
     "flux": "^2.0.1",
     "leaflet": "^0.7.3",
+    "leaflet.markercluster": "^0.4.0",
     "react": "^0.12.2",
     "superagent": "^0.21.0"
   },
@@ -32,6 +33,7 @@
     "gulp": "^3.8.11",
     "gulp-browserify": "^0.5.1",
     "gulp-concat": "^2.4.3",
+    "gulp-es6-transpiler": "^1.0.1",
     "gulp-util": "^3.0.3",
     "object-assign": "^2.0.0",
     "reactify": "^1.0.0"
